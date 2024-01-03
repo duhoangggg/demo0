@@ -381,8 +381,8 @@ p.chu_1 {
 }
 
 .right {
-    width: 1420px;
-    height: 2061px;
+    width: 918px;
+    height: 2355px;
 }
 
 i.fa.fa-user.iccon {
@@ -432,13 +432,13 @@ h6._n1 {
 
 .left {
   background-color: black;
-  height: 1986px;
-  width: 12%;
+  height: 2355px;
+  width: 350px;
 }
 
 .than {
   height: 800px;
-  width: 2888px;
+  width: 1266px;
   border-top: 16px solid black;
   display: flex;
 }
@@ -479,7 +479,7 @@ h6.ht {
 .dau {
   background-color: pink;
   height: 170px;
-  width: 1919px;
+  width: 1266px;
 }
 
 }
